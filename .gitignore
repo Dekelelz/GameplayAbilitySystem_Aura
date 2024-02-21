@@ -1,0 +1,15 @@
+Binaris
+DerivedDataCache
+Intermediate
+Saved
+Build
+
+.vscode
+.vs
+*.VC.dc
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.xrcodeproj
+*.xcworkspace
